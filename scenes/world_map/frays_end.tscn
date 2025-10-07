@@ -127,6 +127,7 @@ tile_set = ExtResource("1_4evgk")
 
 [node name="Player" parent="." instance=ExtResource("3_tp7qs")]
 position = Vector2(985, 871)
+scale = Vector2(6.3, 6.3)
 player_name = "StoryWeaver"
 sprite_frames = ExtResource("6_06x6x")
 
