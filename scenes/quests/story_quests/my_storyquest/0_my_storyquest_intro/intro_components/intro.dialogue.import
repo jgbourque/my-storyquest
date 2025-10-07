@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://di0a7wyg2qxl5"
+path="res://.godot/imported/intro.dialogue-fcef468cb8b269365dbc4b6c2b140e79.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_storyquest/0_my_storyquest_intro/intro_components/intro.dialogue"
+dest_files=["res://.godot/imported/intro.dialogue-fcef468cb8b269365dbc4b6c2b140e79.tres"]
+
+[params]
+
+defaults=true
