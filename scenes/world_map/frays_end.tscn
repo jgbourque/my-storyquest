@@ -336,6 +336,7 @@ sprite_frames = ExtResource("3_rti58")
 
 [node name="Cat" parent="NPCs" instance=ExtResource("20_xa7wa")]
 position = Vector2(267, 650)
+scale = Vector2(4.72, 4.72)
 look_at_side = 0
 sprite_frames = ExtResource("20_6r0j2")
 
