@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://csbs1miqdfqf5"
+path="res://.godot/imported/outro.dialogue-cce67f4fdda2e7656df33cbcc4bf3b7e.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/my_storyquest/4_my_storyquest__outro/outro_components/outro.dialogue"
+dest_files=["res://.godot/imported/outro.dialogue-cce67f4fdda2e7656df33cbcc4bf3b7e.tres"]
+
+[params]
+
+defaults=true
